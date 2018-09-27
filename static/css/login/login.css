@@ -1,0 +1,30 @@
+body{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+#login_text{
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 30%;
+}
+section input{
+  margin: 5px;
+  border: 2px black solid;
+  padding: 10px;
+}
+section button{
+  width: 100px;
+  background-color: #0997F7;
+  border: 1px solid black;
+
+}
+.logo{
+  width: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
